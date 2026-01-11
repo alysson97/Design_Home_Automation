@@ -104,5 +104,3 @@ Este projeto está disponível sob a licença MIT. Veja o arquivo LICENSE para d
 
 ## Contato
 Mantenedor: [alysson97](https://github.com/alysson97)
-
-Se quiser, posso gerar um arquivo `.env.example`, um template de configuração para um broker MQTT, exemplos de drivers para um dispositivo (ex.: lâmpada MQTT) ou um README em inglês. Diga qual dos itens você prefere em seguida.
